@@ -1,0 +1,11 @@
+{
+	"name": "phasergame",
+	"version": "1.0.0",
+	"description": "",
+	"main": "game.js",
+	"scripts": {
+		"dev": "live-server --port=3030"
+	},
+	"author": "MasterAddy",
+	"license": "ISC"
+}
